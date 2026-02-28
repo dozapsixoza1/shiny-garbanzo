@@ -13,7 +13,7 @@ from aiogram.types import Message, CallbackQuery, InlineKeyboardMarkup, InlineKe
 # ==========================================
 #              НАСТРОЙКИ
 # ==========================================
-API_TOKEN = 'ТВОЙ_ТОКЕН_БОТА'
+API_TOKEN = '8751530782:AAEYl88Tw5aKRgA0pbk5TLdkD4Ea_iik-HM'
 OWNER_ID = 12345678  # Твой Telegram ID
 MATCH_SIZE = 4  # Количество игроков для матча (10 для 5х5)
 DB_NAME = "lethal_ultra.db"
